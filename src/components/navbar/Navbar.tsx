@@ -2,7 +2,7 @@ import { DiCssdeck } from 'react-icons/di';
 import { FiMenu } from 'react-icons/fi'; 
 import { FiMoon } from 'react-icons/fi';
 import {AiOutlineClose} from 'react-icons/ai'
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './Navbar.css'
 
 function Navbar() {
