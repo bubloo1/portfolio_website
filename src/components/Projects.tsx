@@ -1,0 +1,33 @@
+import LinkedinImg from '../assets/linkedin.png'
+import AnjinamImg from '../assets/Screenshot_15-7-2024_103723_big-anjinam-game.onrender.com.jpeg'
+
+const Projects = () => {
+  return (
+    <section id='project' className='my-12'>
+    <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10'>projects</h1>
+    <div className="max-w-2xl mx-auto flex justify-between rounded overflow-hidden shadow-lg">
+    <div className='bg-blue-950 w-72 border-solid border-2 border-sky-500 p-4 rounded-lg'>
+    <a href="https://big-anjinam-game.onrender.com" target='_blank'><img className="w-full" src={AnjinamImg} alt="Card Image"/></a>
+      <div className="px-6 py-4">
+        <div className="font-bold text-xl mb-2 text-white"><a href="https://big-anjinam-game.onrender.com" target='_blank'>Anjinam Board game</a></div>
+        <p className="text-base text-gray-50b text-white">
+          Developed this multiplayer board game, “Anjinam”, currently not available online,
+          showcasing creative problem-solving and programming skills.
+        </p>
+      </div>
+    </div>
+    <div className='bg-blue-950 w-72 border-solid border-2 border-sky-500 p-4 rounded-lg'>
+      <img className="w-full" src={LinkedinImg} alt="Card Image"/>
+      <div className="px-6 py-4">
+        <div className="font-bold text-xl mb-2 text-white">LinkedIn Clone</div>
+        <p className="text-base text-gray-50">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+    </div>
+  </section>
+  )
+}
+
+export default Projects

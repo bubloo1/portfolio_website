@@ -1,6 +1,8 @@
 import Navbar from './components/Navbar'
-import './App.css'
 import Hero from './components/Hero'
+import Projects from './components/Projects'
+import Skills from './components/Skills'
+import About from './components/About'
 
 function App() {
 
@@ -8,6 +10,9 @@ function App() {
       <div className='bg-blue-950'>
         <Navbar/>
         <Hero/>
+        <Projects/>
+        <Skills/>
+        <About/>
       </div>
   )
 }
