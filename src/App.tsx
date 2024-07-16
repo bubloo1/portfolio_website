@@ -7,12 +7,12 @@ import About from './components/About'
 function App() {
 
   return (
-      <div className='bg-blue-950'>
+      <div className='bg-blue-950 h-full'>
         <Navbar/>
         <Hero/>
+        <About/>
         <Projects/>
         <Skills/>
-        <About/>
       </div>
   )
 }

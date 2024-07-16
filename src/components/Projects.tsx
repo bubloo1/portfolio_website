@@ -17,11 +17,12 @@ const Projects = () => {
       </div>
     </div>
     <div className='bg-blue-950 w-72 border-solid border-2 border-sky-500 p-4 rounded-lg'>
-      <img className="w-full" src={LinkedinImg} alt="Card Image"/>
+      <a href=""><img className="w-full" src={LinkedinImg} alt="Card Image"/></a>
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-white">LinkedIn Clone</div>
         <p className="text-base text-gray-50">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Build a LinkedIn clone from scratch using React.js express.js, MySQL.
+          With features such as JWT auth, messaging, etc.
         </p>
       </div>
     </div>

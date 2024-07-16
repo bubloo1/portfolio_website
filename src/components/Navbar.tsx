@@ -11,7 +11,7 @@ const Navbar = () => {
             </div>
             <div className="flex text-lg font-medium">
                 <a href="#project"><p className="mr-10 cursor-pointer">Projects</p></a> 
-                <a href="#skills"><p className="mr-10 cursor-pointer">Technologies</p></a>
+                <a href="#skills"><p className="mr-10 cursor-pointer">Skills</p></a>
                 <a href="#about"><p className="mr-10 cursor-pointer">About me</p></a>
             </div>
             <div className="flex gap-5 text-lg">

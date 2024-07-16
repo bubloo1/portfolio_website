@@ -1,8 +1,8 @@
 
 const Skills = () => {
   return (
-    <section id="skills" className="mx-auto max-w-screen-lg text-white my-22">
-        <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10'>Technologies</h1>
+    <section id="skills" className="mx-auto max-w-screen-lg text-white py-5">
+        <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10'>Skills</h1>
         <div>
             <div className="flex justify-between">
                 <h2 className="text-2xl">JavaScript/Typescript</h2>
