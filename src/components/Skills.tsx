@@ -1,7 +1,7 @@
 
 const Skills = () => {
   return (
-    <section id="skills" className="mx-auto max-w-screen-lg text-white py-5">
+    <section id="skills" className="mx-auto max-w-screen-lg text-white py-5 max-md:px-8">
         <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10'>Skills</h1>
         <div>
             <div className="flex justify-between">

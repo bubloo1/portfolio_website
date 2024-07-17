@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="mx-auto max-w-screen-lg mt-28  flex md:flex max-md:flex-col-reverse max-md:mt-12">
         <div className="mx-auto">
-            <h1 className="text-5xl mb-6 font-semibold max-md:text-5xl" 
+            <h1 className="text-5xl mb-6 font-semibold max-sm:text-4xl" 
               style={{backgroundClip: "text", 
                   color: "transparent", 
                   backgroundImage: "linear-gradient(to right, #EC4899, #8B5CF6, #4F46E5)", 
