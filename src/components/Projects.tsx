@@ -4,7 +4,7 @@ import AnjinamImg from '../assets/Screenshot_15-7-2024_103723_big-anjinam-game.o
 const Projects = () => {
   return (
     <section id='project' className='my-12'>
-      <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10 max-md:flex justify-center'>projects</h1>
+      <h1 className='text-5xl text-white max-w-screen-lg mx-auto my-10 max-md:flex justify-center'>Projects</h1>
       <div className="max-w-2xl mx-auto flex flex-col justify-between sm:flex-row max-sm:justify-center max-sm:items-center rounded shadow-lg ">
         <div className='bg-blue-950 w-72 border-solid border-2 border-sky-500 p-3 rounded-lg'>
           <a href="https://big-anjinam-game.onrender.com" target='_blank'>

@@ -4,10 +4,10 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="mx-auto max-w-screen-lg text-white py-8">
+    <div className="mx-auto max-w-screen-lg text-white py-8 max-[500px]:mx-8">
         <nav className="flex justify-between items-center">
             <div>
-                <p className="text-2xl font-semibold cursor-pointer">Protfolio</p>
+                <p className="text-2xl font-semibold cursor-pointer display-none max-[500px]:hidden">Protfolio</p>
             </div>
             <div className="flex text-lg font-medium">
                 <a href="#project"><p className="mr-10 cursor-pointer">Projects</p></a> 
