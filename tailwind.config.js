@@ -6,11 +6,10 @@ export default {
   ],
   theme: {
     extend: {
-      
+      colors: {
+        customColor: 'rgb(36, 223, 36)', // Replace with your custom color
+      },
     },
-    // colors:{
-    //   bgcolor: '#172554'
-    // }
   },
   plugins: [],
 }

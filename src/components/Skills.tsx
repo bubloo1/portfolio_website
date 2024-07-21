@@ -8,7 +8,7 @@ const Skills = () => {
                 <h2 className="text-2xl max-[500px]:text-xl">JavaScript/Typescript</h2>
                 <h2>Regular</h2>
             </div>
-            <div className="w-2/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-2/4 h-4 bg-customColor rounded-full my-4">
             
             </div>
         </div>
@@ -17,7 +17,7 @@ const Skills = () => {
                 <h2 className="text-2xl max-[500px]:text-xl">Python</h2>
                 <h2>Advanced</h2>
             </div>
-            <div className="w-3/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-3/4 h-4 bg-customColor rounded-full my-4">
                
             </div>
         </div>
@@ -26,7 +26,7 @@ const Skills = () => {
                 <h2 className="text-2xl max-[500px]:text-xl">HTML/CSS</h2>
                 <h2>Advanced</h2>
             </div>
-            <div className="w-3/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-3/4 h-4 bg-customColor rounded-full my-4">
                 
             </div>
         </div>
@@ -35,7 +35,7 @@ const Skills = () => {
                 <h2 className="text-2xl max-[500px]:text-xl">ReactJS</h2>
                 <h2>Regular</h2>
             </div>
-            <div className="w-2/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-2/4 h-4 bg-customColor rounded-full my-4">
                 
             </div>
         </div>
@@ -44,7 +44,7 @@ const Skills = () => {
                 <h2 className="text-2x max-[500px]:text-xll">Node.js</h2>
                 <h2>Advanced</h2>
             </div>
-            <div className="w-3/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-3/4 h-4 bg-customColor rounded-full my-4">
                 
             </div>
         </div>
@@ -53,7 +53,7 @@ const Skills = () => {
                 <h2 className="text-2xl max-[500px]:text-xl">SQL</h2>
                 <h2>Advanced</h2>
             </div>
-            <div className="w-3/4 h-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full my-4">
+            <div className="w-3/4 h-4 bg-customColor rounded-full my-4">
                 
             </div>
         </div>

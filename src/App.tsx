@@ -7,7 +7,7 @@ import About from './components/About'
 function App() {
 
   return (
-      <div className='bg-blue-950 h-full'>
+      <div className='bg-neutral-800 h-full'>
         <Navbar/>
         <Hero/>
         <About/>
