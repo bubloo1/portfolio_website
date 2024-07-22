@@ -15,7 +15,7 @@ const Hero = () => {
             <p className='my-10 text-xl text-gray-50'>Experienced full-stack developer - MERN Stack</p>
            <div className=' max-md:flex justify-center mt-14'>
             <a href="/resume.pdf"  download="Shaik_Allabaksh_CV.pdf" 
-              className="text-2xl text-customColor border-2 border-customColor  px-4 py-3 rounded-full font-medium text">Download CV</a>
+              className="text-2xl text-customColor border-2 border-customColor  px-4 py-3 rounded-full font-medium text hover:text-white">Download CV</a>
            </div>
         </div>
 
