@@ -21,11 +21,11 @@ const Projects = () => {
           </div>
         </div>
         <div className='w-72 border-solid border-2 border-customColor p-3 rounded-lg mt-4 sm:mt-0'>
-          <a href="https://linkedinfrontendrender.onrender.com/">
+          <a href="https://linkedinfrontendrender.onrender.com/" target='_blank'>
             <img className="w-full rounded" src={LinkedinImg} alt="Card Image"/>
           </a>
           <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2 text-white"><a href="https://linkedinfrontendrender.onrender.com/">LinkedIn Clone</a></div>
+            <div className="font-bold text-xl mb-2 text-white"><a href="https://linkedinfrontendrender.onrender.com/" target='_blank'>LinkedIn Clone</a></div>
             <p className="text-base text-gray-50">
               Build a LinkedIn clone from scratch using React.js express.js, MySQL.
               With features such as JWT auth, messaging, etc.
