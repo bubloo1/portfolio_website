@@ -57,6 +57,15 @@ const Skills = () => {
                 
             </div>
         </div>
+        <div>
+            <div className="flex justify-between">
+                <h2 className="text-2xl max-[500px]:text-xl">Go</h2>
+                <h2>Regular</h2>
+            </div>
+            <div className="w-2/4 h-4 bg-customColor rounded-full my-4">
+                
+            </div>
+        </div>
         
     </section>
   )
